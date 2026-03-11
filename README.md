@@ -1,1 +1,7 @@
-traffic-detection-yolov8
+Real-Time Traffic Detection using YOLOv8
+
+This project implements real-time vehicle detection from videos using the powerful object detection model YOLOv8 and Python. The system detects vehicles such as cars, buses, and trucks in traffic videos and visualizes the results with bounding boxes.
+
+To enhance visualization and tracking, the Supervision library is used for efficient annotation and object tracking.
+
+The detection model is trained on the COCO Dataset, which contains 80 object categories, enabling robust detection of various objects including vehicles.
