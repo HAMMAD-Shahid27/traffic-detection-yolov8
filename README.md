@@ -32,13 +32,3 @@ Supervision
 OpenCV
 
 PyTorch
-
-⚙️ Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/traffic-detection-yolov8.git
-cd traffic-detection-yolov8
-
-▶️ Run the Project
-python main.py
